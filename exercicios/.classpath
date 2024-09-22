@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="cond02/cond02/src"/>
+	<classpathentry kind="src" path="exercicio_3/exercicio_3/src"/>
+	<classpathentry kind="src" path="exercicio_4/exercicio_4/src"/>
+	<classpathentry kind="src" path="exercicio_5/exercicio_5/src"/>
+	<classpathentry kind="src" path="exercicio_6/exercicio_6/src"/>
+	<classpathentry kind="src" path="exercicio_7/exercicio_7/src"/>
+	<classpathentry kind="src" path="exercicio_8/exercicio_8/src"/>
+	<classpathentry kind="src" path="exercicios_if_else/src"/>
+	<classpathentry kind="output" path="cond02/cond02/bin"/>
+</classpath>
